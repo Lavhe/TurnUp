@@ -1,0 +1,4 @@
+#Fri Dec 01 00:48:51 SAST 2017
+base.0=/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main/classes.dex

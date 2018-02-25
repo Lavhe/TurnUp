@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/icon.png",
+        "source": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/background.png",
+        "source": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/src/main/res/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/logo.png",
+        "source": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/src/main/res/drawable-mdpi/logo.png"
+    }
+]
