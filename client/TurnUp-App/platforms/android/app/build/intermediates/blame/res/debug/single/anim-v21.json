@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp-App/platforms/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/lavhe/.android/build-cache/fe558a958ac000f4a30f18063cd3b122b2d28a04/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp-App/platforms/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/lavhe/.android/build-cache/fe558a958ac000f4a30f18063cd3b122b2d28a04/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]
