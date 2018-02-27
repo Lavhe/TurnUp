@@ -4,12 +4,32 @@
         "source": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v11/notification_template_big_media_narrow.xml"
     },
     {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
         "merged": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/layout-v11/notification_media_cancel_action.xml",
         "source": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v11/notification_media_cancel_action.xml"
     },
     {
         "merged": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/layout-v11/notification_template_big_media.xml",
         "source": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/layout-v11/notification_media_action.xml",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v11/notification_media_action.xml"
     },
     {
         "merged": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/layout-v11/notification_media_action.xml",
@@ -22,5 +42,9 @@
     {
         "merged": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/layout-v11/notification_template_big_media_custom.xml",
         "source": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v11/notification_media_cancel_action.xml"
     }
 ]

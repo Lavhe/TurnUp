@@ -4,11 +4,23 @@
         "source": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/src/main/res/drawable-xxhdpi/background.png"
     },
     {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/logo.png",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/background.png",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/src/main/res/drawable-xxhdpi/background.png"
+    },
+    {
         "merged": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/logo.png",
         "source": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/src/main/res/drawable-xxhdpi/logo.png"
     },
     {
         "merged": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/icon.png",
         "source": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/icon.png",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/src/main/res/drawable-xxhdpi/icon.png"
     }
 ]

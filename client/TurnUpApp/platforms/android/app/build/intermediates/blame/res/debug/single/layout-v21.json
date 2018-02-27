@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUpApp/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/lavhe/.android/build-cache/922492b5c18a808a525c69e0e5344a76edec666b/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUpApp/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/lavhe/.android/build-cache/922492b5c18a808a525c69e0e5344a76edec666b/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUpApp/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/lavhe/.android/build-cache/922492b5c18a808a525c69e0e5344a76edec666b/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUpApp/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/lavhe/.android/build-cache/922492b5c18a808a525c69e0e5344a76edec666b/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

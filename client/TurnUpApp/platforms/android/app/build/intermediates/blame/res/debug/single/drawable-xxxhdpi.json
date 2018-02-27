@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUpApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/logo.png",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUpApp/platforms/android/app/src/main/res/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUpApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/background.png",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUpApp/platforms/android/app/src/main/res/drawable-xxxhdpi/background.png"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUpApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/icon.png",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUpApp/platforms/android/app/src/main/res/drawable-xxxhdpi/icon.png"
+    }
+]

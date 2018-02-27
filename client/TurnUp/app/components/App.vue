@@ -38,8 +38,6 @@
     }
 </script>
 
-<style src="https://fonts.googleapis.com/icon?family=Material+Icons">
-
 <style>
     label {
         text-align: center;

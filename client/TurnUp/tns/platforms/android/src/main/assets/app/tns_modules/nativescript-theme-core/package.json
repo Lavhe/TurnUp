@@ -2,7 +2,7 @@
   "_args": [
     [
       "nativescript-theme-core@1.0.4",
-      "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns"
+      "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns"
     ]
   ],
   "_from": "nativescript-theme-core@1.0.4",
@@ -26,7 +26,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-theme-core/-/nativescript-theme-core-1.0.4.tgz",
   "_spec": "1.0.4",
-  "_where": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns",
+  "_where": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns",
   "author": {
     "name": "Telerik",
     "email": "support@telerik.com"

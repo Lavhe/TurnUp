@@ -8,12 +8,32 @@
         "source": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable-v21/design_password_eye.xml"
     },
     {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-v21/avd_show_password.xml",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable-v21/avd_show_password.xml"
+    },
+    {
         "merged": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-v21/avd_show_password.xml",
         "source": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable-v21/avd_show_password.xml"
     },
     {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-v21/design_password_eye.xml",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
         "merged": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-v21/design_bottom_navigation_item_background.xml",
         "source": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-v21/notification_action_background.xml",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable-v21/notification_action_background.xml"
     },
     {
         "merged": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-v21/avd_hide_password.xml",
@@ -24,8 +44,20 @@
         "source": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
         "merged": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-v21/abc_edit_text_material.xml",
         "source": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
         "merged": "/media/lavhe/Lavhe's Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-v21/notification_action_background.xml",

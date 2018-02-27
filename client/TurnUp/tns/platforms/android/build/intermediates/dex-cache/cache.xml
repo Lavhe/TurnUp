@@ -3,147 +3,147 @@
 
     <item
         is-multidex="false"
-        jar="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jar="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_de4ff9730319551702b7ed9b80865b5b1f99d197.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-26.0.0-alpha1_fe437c93ca042b36c5834c9af02fd0594ad7fe62.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
-        <dex dex="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_31b05c83b12b4d978ae6a155063585a51b600af9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
-        <dex dex="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-26.0.0-alpha1_28f8610e4f19ea248e2ef0568b17f75318aa76cd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
-        <dex dex="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_68e665e90278442749cfa7e7069c53ced235785d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-26.0.0-alpha1_090522675e68e4f7a1c3c9afa3febbb4aded50be.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-26.0.0-alpha1_4d203161bc576948bd0c4bdd2433fe31851d99c3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/nativescriptvuewebpack/runtime/unspecified/jars/libs/binding-generator.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
-        <dex dex="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_2107261fc51cc40e11e7f8217724b40b4f2c8d1e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
-        <dex dex="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-26.0.0-alpha1_7e751b3b21eceff40d2e4f7ddac9f8db4c1f5096.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-26.0.0-alpha1_b540ebdf1cc23984ee5620c18a95994d70ec62f7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
+        revision="27.0.3"
         sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_c228547005947f6da5ad2655a287fa6fa1511b42.jar" />
+        <dex dex="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_442d07024004504988f3e44b94ebd69ea2878487.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/nativescriptvuewebpack/runtime/unspecified/jars/classes.jar"
+        jar="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="eb6078500d1af5e7b663871706674405c57292a3">
-        <dex dex="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/nativescriptvuewebpack-runtime-unspecified_7836c8bfe38e303fd6a38e3a7046d4e915ea89fc.jar" />
+        revision="27.0.3"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-26.0.0-alpha1_732a62b99827053bb33686eb830b6c371dbc0c5a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jar="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
+        revision="27.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_6fa718bd433a400ba9b50124402c9b469022163a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-26.0.0-alpha1_daac077757ae69b108ea0679cb938f73d3924b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-26.0.0-alpha1_6a7820b6a67a17f6eb03647fe491e92d693402dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
         sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-26.0.0-alpha1_8bd2b1bea368e8efa524aee6cff9bfd655568247.jar" />
+        <dex dex="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-26.0.0-alpha1_a246a3c1d38a3e9858e06c4683337f9d76235e53.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/lavhe/Android/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jar="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/nativescriptvuewebpack/runtime/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
+        revision="27.0.3"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/nativescriptvuewebpack-runtime-unspecified_9b80d4d1c3366470cd20e50e342f8bcdf61faeff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lavhe/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
         sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-26.0.0-alpha1_097f04cf376624bc7fd94617d66bb2b3bb0def2f.jar" />
+        <dex dex="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-26.0.0-alpha1_717b93b0d3271289c78bc52af18e3f2123034828.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jar="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
+        revision="27.0.3"
         sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-26.0.0-alpha1_90fc9c136796f382c8d4d9321b65f65f7b4a6019.jar" />
+        <dex dex="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-26.0.0-alpha1_cdee79a513a7b7105b5f51692a84ab7ad544062a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jar="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
+        revision="27.0.3"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-26.0.0-alpha1_b7d3818a59401988b2d8e4e9a58af6ab05a7fcb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/nativescriptvuewebpack/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_35973fa8260d681ba8692a6264dfbfd55f405638.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_2e29653808fb8428a5acb683d8eb7971102325db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
         sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="/media/lavhe/Lavhe&apos;s Stuff1/_School Stuff/Just For Control/GitHub/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-26.0.0-alpha1_0c20696f11afeddafc5beab932d36f6eadba4afd.jar" />
+        <dex dex="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-26.0.0-alpha1_49bd164e7fd3ac0576d4d824660024e3a8d8c90a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-26.0.0-alpha1_1ba63a33e55fb3a12fa37b44b5f0ff8070b2a086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-26.0.0-alpha1_b8a7d1964012ad02819690849be93aa74ded9434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/media/lavhe/6D7C4DA71DA9CC1D/Play/CODE/TurnUp/client/TurnUp/tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_a66a2fc9525ae8e47c7f456003d4c618ffb2bb2e.jar" />
     </item>
 
 </items>

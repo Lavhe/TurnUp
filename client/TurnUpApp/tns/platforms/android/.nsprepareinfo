@@ -1,0 +1,9 @@
+{
+	"time": "Tue Feb 27 2018 21:24:36 GMT+0200 (SAST)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "7f82c8704a4de007078fa2f7c1892e457bbaa66e994c3cd0f88b9847205efb14",
+	"changesRequireBuildTime": "Tue Feb 27 2018 06:38:06 GMT+0200 (SAST)"
+}
